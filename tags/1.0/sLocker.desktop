@@ -1,0 +1,10 @@
+[Desktop Entry]
+BigIcon = sLocker.png
+Comment = Native EZX sLocker by netsnakecq
+Domain = T
+Exec = sLocker
+Icon = sLocker_sm.png
+Name =屏锁
+OsVersion = 0.0.1
+Shared = 1
+Type = Application
